@@ -6,20 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cf59f6e6-d16a-4d7d-a9be-a1f79300139d" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Front/public/back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front/public/delete.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front/public/forward.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front/src/backend/src/BaseUrl/BaseUrlFunction.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Front/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front/src/app/app-module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/app-module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.css" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/comments/comments.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/films-info-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/films-info-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/films-info-page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-info-page/films-info-page.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-page/films-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-page/films-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_D      <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-page/films-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-page/films-page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/films-page/films-page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/films-page/films-page.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/review/review.css" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/review/review.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/review/review.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/app/core/features/films/watch/review/review.css.map" afterDir="false" />
